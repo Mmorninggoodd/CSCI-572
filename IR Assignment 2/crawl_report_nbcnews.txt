@@ -1,0 +1,43 @@
+Name: Shreyansh Kakadiya
+USC ID: 8056685392
+News site crawled: http://www.nbcnews.com/
+
+Fetch Statistics
+================
+# fetches attempted: 19998 
+# fetches succeeded: 19240
+# fetches aborted: 257
+# fetches failed: 501
+
+Outgoing URLs:
+==============
+Total URLs extracted: 781608
+# unique URLs extracted: 202905
+# unique URLs within News Site: 41978
+# unique URLs outside News Site: 160927
+
+Status Codes:
+=============
+200 OK: 19240
+301 Moved Permanently: 219
+302 Found: 38 
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 497
+502 Bad Gateway: 4
+
+File Sizes:
+===========
+< 1KB: 4
+1KB ~ <10KB: 3
+10KB ~ <100KB: 10934
+100KB ~ <1MB: 8258
+>= 1MB: 41
+
+Content Types:
+==============
+text/html: 19227
+image/gif: 3
+image/jpeg: 0
+image/png: 1
+application/pdf: 0
